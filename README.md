@@ -145,11 +145,14 @@ Analista Desenvolvedor Full Stack apaixonado por tecnologia, desenvolver e utili
     </tr>
 </table>
 
+<!--
 <p align="center">
 <h2>
     <bold>:bar_chart: Statistics: </bold>
 </h2>
 </p>
+-->
+
 
 <!--
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tadyello&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tadyello&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tadyello&theme=nord_dark) |
