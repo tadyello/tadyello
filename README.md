@@ -21,11 +21,9 @@ Here are some ideas to get you started:
 </h4>
 
 <p align="center">
-
 Analista Desenvolvedor Full Stack apaixonado por tecnologia, desenvolver e utilizar soluções para otimizar produtividade e transformar dados e estatísticas em insights.
-
+<br>
 Também sou um grande amante da natureza, pessoas e atividades ao ar livre. :heart:
-    
 </p>
 
 <br>
