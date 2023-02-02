@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 </h4>
 
 <p align="center">
-Analista Desenvolvedor Full Stack apaixonado por tecnologia, desenvolver e utilizar soluções para otimizar produtividade e transformar dados e estatísticas em insights. :heart:
+Analista Desenvolvedor Full Stack apaixonado por tecnologia, pessoas, desenvolver e utilizar soluções para otimizar produtividade e transformar dados e estatísticas em insights. :heart:
 <br>
 <br>
-Nas horas vagas um grande amante da natureza e atividades ao ar livre. :sunrise_over_mountains:
+Paralelamente um grande amante e apreciador da natureza e atividades ao ar livre. :sunrise_over_mountains:
 </p>
 
 <br>
