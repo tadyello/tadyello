@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/tadyello)](https://www.linkedin.com/in/tadyello/)
 </h4>
 
-Analista Desenvolvedor Full Stack apaixonado por tecnologia, desenvolver e utilizar soluções para otimizar produtividade e transformar dados e estatísticas em insights.Também sou um grande amante da natureza, pessoas e atividades ao ar livre. :heart:
+Analista Desenvolvedor Full Stack apaixonado por tecnologia, desenvolver e utilizar soluções para otimizar produtividade e transformar dados e estatísticas em insights.
+
+Também sou um grande amante da natureza, pessoas e atividades ao ar livre. :heart:
 <br>
 <br>
 
