@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 Analista Desenvolvedor Full Stack apaixonado por tecnologia, pessoas, desenvolver e utilizar soluções para otimizar produtividade e transformar dados e estatísticas em insights. :heart:
 <br>
 <br>
-Paralelamente um grande amante e apreciador da natureza e atividades ao ar livre. :sunrise_over_mountains:
+Nas horas vagas amante e admirador da natureza e atividades ao ar livre. :sunrise_over_mountains:
 </p>
 
 <br>
